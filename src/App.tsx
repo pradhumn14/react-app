@@ -1,8 +1,7 @@
 // import Message from "./Message"
 // import ListGroup from "./components/ListGroup"
-// import Alert from "./components/Alert"
 
-import { Alert } from "react-bootstrap";
+import Alert from "./components/Alert"
 import Button from "./components/Button";
 import { useState } from "react";
 
